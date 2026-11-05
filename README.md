@@ -1,3 +1,7 @@
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/fd8360d1-2ea1-462c-b6ce-5b5d774ec6d5" />
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/cb1e59d5-f0c1-4f4f-a55f-587c9ea4a33d" />
+<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/614c02c3-f1f0-4813-999e-16510012fe04" />
+<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/6e957775-7b7c-4e07-a654-4c933cc1b482" />
 # Lecture2-Hearing-and-Seeing-Aliasing
 Results table
 
